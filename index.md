@@ -12,7 +12,7 @@ Welcome to the website of the **INAS** project!
 
 This project is funded as part of the [Robust Argumentation Machines](http://www.spp-ratio.de/) program by the DFG. We will develop an argumentation machine that supports users in and during the argumentation process in a scientific context. The goal is to enable users to follow ongoing argumentation in a scientific community and to develop their own arguments.
 
-The project closely collaborates with other initiatives that work on mapping and organizing scientific knowledge, such as the [hi-knowlegde|(https://hi-knowledge.org/) project.
+The project closely collaborates with other initiatives that work on mapping and organizing scientific knowledge, such as the [hi-knowlegde](https://hi-knowledge.org/) project.
 
 Our interdisciplinary team brings together people from Natural Language Processing, Biology, Semantic Web and Knowledge Representation.
 
