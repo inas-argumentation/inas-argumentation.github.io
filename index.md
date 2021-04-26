@@ -5,32 +5,28 @@
 layout: home
 ---
 
-Welcome to the website of the **INAS** project, funded as part of the "Argumentation Machines" program by the DFG.
+# INAS -  Interactive Argumentation Support for the Scientific Domain of Invasion Biology
+
+Welcome to the website of the **INAS** project, funded as part of the [Robust Argumentation Machines](http://www.spp-ratio.de/) program by the DFG.
 In this project, we will develop an argumentation machine that supports users in and during the argumentation process in a scientific context. The goal is to enable users to follow ongoing argumentation in a scientific community and to develop their own arguments.
 
 Our interdisciplinary team brings together people from Natural Language Processing, Biology, Semantic Web and Knowledge Representation.
 
-
-<!--
-<img style="margin-left: auto; margin-right: auto; width: 80%;" src="/assets/jena-web.jpg" width="400">
-This is a photo from the past of CLAUSE. Once, we were located at the Friedrich Schiller University in Jena. We have now moved to Uni Bielefeld. We will update the photo as soon as the first group hike into Teutoburger Wald has taken place.
--->
-
-<br/><br/>
+<br/>
 
 # People
 
-* Sina Zarrieß
-* Tina Heger
-* Birgitta König-Ries
-* Jonathan Jeschke
-* Alsayed Algergawy
+* [Sina Zarrieß](https://sinazarriess.github.io/), PI
+* [Tina Heger](https://www.tinaheger.de/), PI
+* [Birgitta König-Ries](https://fusion.cs.uni-jena.de/fusion/members/birgitta-konig-ries/), PI
+* [Jonathan Jeschke](https://www.bcp.fu-berlin.de/biologie/arbeitsgruppen/zoologie/ag_jeschke/mitarbeiter/jeschke/index.html)
+* [Alsayed Algergawy](https://fusion.cs.uni-jena.de/fusion/members/alsayed-algergawy/)
 
-<br/><br/>
+<br/>
 
-# Open positions
+# Open position
 
-* **PhD position**: We are currently looking for a PhD to join our group. Official announcement will follow soon.
+* We are currently looking for a PhD to join our project. Official announcement will follow soon!
 
 
 
