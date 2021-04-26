@@ -5,9 +5,11 @@
 layout: home
 ---
 
-# INAS -  Interactive Argumentation Support for Invasion Biology
 
 Welcome to the website of the **INAS** project, funded as part of the [Robust Argumentation Machines](http://www.spp-ratio.de/) program by the DFG.
+
+# Interactive Argumentation Support for Invasion Biology
+
 In this project, we will develop an argumentation machine that supports users in and during the argumentation process in a scientific context. The goal is to enable users to follow ongoing argumentation in a scientific community and to develop their own arguments.
 
 Our interdisciplinary team brings together people from Natural Language Processing, Biology, Semantic Web and Knowledge Representation.
