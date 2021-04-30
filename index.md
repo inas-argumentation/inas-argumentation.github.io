@@ -5,32 +5,32 @@
 layout: home
 ---
 
-Welcome to the website of the **INAS** project, funded as part of the "Argumentation Machines" program by the DFG.
-In this project, we will develop an argumentation machine that supports users in and during the argumentation process in a scientific context. The goal is to enable users to follow ongoing argumentation in a scientific community and to develop their own arguments.
+
+Welcome to the website of the **INAS** project! 
+
+# Interactive Argumentation Support for Invasion Biology
+
+This project is funded as part of the [Robust Argumentation Machines](http://www.spp-ratio.de/) program by the DFG. We will develop an argumentation machine that supports users in and during the argumentation process in a scientific context. The goal is to enable users to follow ongoing argumentation in a scientific community and to develop their own arguments.
+
+The project collaborates closely with other initiatives that work on mapping and organizing scientific knowledge, such as the [hi-knowlegde](https://hi-knowledge.org/) project.
 
 Our interdisciplinary team brings together people from Natural Language Processing, Biology, Semantic Web and Knowledge Representation.
 
-
-<!--
-<img style="margin-left: auto; margin-right: auto; width: 80%;" src="/assets/jena-web.jpg" width="400">
-This is a photo from the past of CLAUSE. Once, we were located at the Friedrich Schiller University in Jena. We have now moved to Uni Bielefeld. We will update the photo as soon as the first group hike into Teutoburger Wald has taken place.
--->
-
-<br/><br/>
+<br/>
 
 # People
 
-* Sina Zarrieß
-* Tina Heger
-* Birgitta König-Ries
-* Jonathan Jeschke
-* Alsayed Algergawy
+* [Sina Zarrieß](https://sinazarriess.github.io/), PI, University of Bielefeld
+* [Tina Heger](https://www.tinaheger.de/), PI, University of Potsdam and TU Munich
+* [Birgitta König-Ries](https://fusion.cs.uni-jena.de/fusion/members/birgitta-konig-ries/), PI, University of Jena
+* [Jonathan Jeschke](https://www.bcp.fu-berlin.de/biologie/arbeitsgruppen/zoologie/ag_jeschke/mitarbeiter/jeschke/index.html), FU Berlin 
+* [Alsayed Algergawy](https://fusion.cs.uni-jena.de/fusion/members/alsayed-algergawy/), University of Jena
 
-<br/><br/>
+<br/>
 
-# Open positions
+# Open position
 
-* **PhD position**: We are currently looking for a PhD to join our group. Official announcement will follow soon.
+* We are currently looking for a PhD to join our project. Official announcement will follow soon!
 
 
 
