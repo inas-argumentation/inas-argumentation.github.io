@@ -16,7 +16,7 @@ The project collaborates closely with other initiatives that work on mapping and
 
 Our interdisciplinary team brings together people from Natural Language Processing, Biology, Semantic Web and Knowledge Representation.
 
-<img style="margin-left: auto; margin-right: auto; width: 50%" src="/_assets/theteam.jpg" width="400">
+<img style="margin-left: auto; margin-right: auto; width: 100%" src="/_assets/theteam.jpg" width="400">
 
 <br/>
 
