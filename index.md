@@ -14,7 +14,7 @@ This project is funded as part of the [Robust Argumentation Machines](http://www
 
 The project collaborates closely with other initiatives that work on mapping and organizing scientific knowledge, such as the [hi-knowlegde](https://hi-knowledge.org/) project.
 
-Our interdisciplinary team brings together people from Natural Language Processing, Biology, Semantic Web and Knowledge Representation.
+Our interdisciplinary team brings together people from Natural Language Processing, Biology, Semantic Web and Knowledge Representation. This is us:
 
 <img style="margin-left: auto; margin-right: auto; width: 80%" src="assets/theteam.jpg">
 
