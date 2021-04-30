@@ -23,7 +23,7 @@ Our interdisciplinary team brings together people from Natural Language Processi
 # People
 
 * [Sina Zarrieß](https://sinazarriess.github.io/), PI, University of Bielefeld
-* [Tina Heger](https://www.tinaheger.de/), PI, University of Potsdam and TU Munich
+* [Tina Heger](https://www.tinaheger.de/), PI, IGB Berlin and TU Munich
 * [Birgitta König-Ries](https://fusion.cs.uni-jena.de/fusion/members/birgitta-konig-ries/), PI, University of Jena
 * [Jonathan Jeschke](https://www.igb-berlin.de/en/profile/jonathan-jeschke), IGB & FU Berlin 
 * [Alsayed Algergawy](https://fusion.cs.uni-jena.de/fusion/members/alsayed-algergawy/), University of Jena
