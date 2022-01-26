@@ -30,13 +30,6 @@ Our interdisciplinary team brings together people from Natural Language Processi
 
 <br/>
 
-# Open position
-
-* We are currently looking for a PhD to join our project. Official announcement will follow soon!
-
-
-
-
 <!--
 ### News
 **23 Sep 2020**:
