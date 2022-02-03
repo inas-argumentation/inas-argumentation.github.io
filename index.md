@@ -27,9 +27,9 @@ Our interdisciplinary team brings together people from Natural Language Processi
 * [Birgitta König-Ries](https://fusion.cs.uni-jena.de/fusion/members/birgitta-konig-ries/), PI, University of Jena
 * [Jonathan Jeschke](https://www.igb-berlin.de/en/profile/jonathan-jeschke), IGB & FU Berlin 
 * [Alsayed Algergawy](https://fusion.cs.uni-jena.de/fusion/members/alsayed-algergawy/), University of Jena
-* [Marc Brinner], PhD student, University of Bielefeld
-* [Mirko Johlke], Master student, University of Jena
-* [Merle Gänßinger], student helper, University of Jena
+* Marc Brinner, PhD student, University of Bielefeld
+* Mirko Johlke, Master student, University of Jena
+* Merle Gänßinger, student helper, University of Jena
 
 <br/>
 
