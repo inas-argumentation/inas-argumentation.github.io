@@ -35,6 +35,8 @@ Our interdisciplinary team brings together people from Natural Language Processi
 
 # Publications
 
+Algergawy, A., Gänßinger, M., Heger, T., Jeschke, J., & König-Ries, B. (2022). The Invasion Biology Ontology (INBIO) [Data set]. Zenodo. [DOI: 10.5281/zenodo.6826848] (https://doi.org/10.5281/zenodo.6826848)
+
 Heger, T. (2022). What are ecological mechanisms? Suggestions for a fine-grained description of causal mechanisms in invasion ecology. Biology & Philosophy 37:9. [DOI: 10.1007/s10539-022-09838-1](https://doi.org/10.1007/s10539-022-09838-1)
 
 Heger, T., Zarrieß, S., Algergawy, A., Jeschke, J.M. & König-Ries, B. (2022). INAS: Interactive Argumentation Support for the Scientific Domain of Invasion Biology. Research Ideas and Outcomes, 8, e80457. [DOI: 10.3897/rio.8.e80457](https://doi.org/10.3897/rio.8.e80457) 
