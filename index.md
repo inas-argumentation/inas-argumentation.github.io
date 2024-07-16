@@ -34,6 +34,10 @@ Our interdisciplinary team brings together people from Natural Language Processi
 <br/>
 
 # Publications
+Heger, T., Algergawy, A., Brinner, M., Jeschke, J. M., König-Ries, B., Mietchen, D., & Zarrieß, S. (2024). Natural language hypotheses in scientific papers and how to tame them. In P. Cimiano, A. Frank, M. Kohlhase, & B. Stein, Robust Argumentation Machines. RATIO 2024. Lecture Notes in Computer Science (pp. 3-19). Springer Nature Switzerland. [DOI: 10.1007/978-3-031-63536-6_1](https://doi.org/10.1007/978-3-031-63536-6_1)
+
+Brinner, M., Zarrieß, S., & Heger, T. (2024). Weakly supervised claim localization in scientific abstracts. In P. Cimiano, A. Frank, M. Kohlhase, & B. Stein, Robust Argumentation Machines. RATIO 2024. Lecture Notes in Computer Science (pp. 20-38). Springer Nature Switzerland. [DOI: 10.1007/978-3-031-63536-6_2](https://doi.org/10.1007/978-3-031-63536-6_2)
+
 Heger, T., Jeschke, J. M., Bernard-Verdier, M., Musseau, C. L., & Mietchen, D. (2024). Hypothesis Description: Enemy Release Hypothesis. Research Ideas and Outcomes, 10. [DOI: 10.3897/rio.10.e107393](https://doi.org/10.3897/rio.10.e107393)
 
 Heger, T., Mietchen, D., & Jeschke, J. M. (2024). Template for a Hypothesis Description paper. Research Ideas and Outcomes, 10. [DOI: 10.3897/rio.10.e119808](https://doi.org/10.3897/rio.10.e119808) 
