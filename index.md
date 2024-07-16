@@ -38,6 +38,10 @@ Heger, T., Algergawy, A., Brinner, M., Jeschke, J. M., König-Ries, B., Mietchen
 
 Brinner, M., Zarrieß, S., & Heger, T. (2024). Weakly supervised claim localization in scientific abstracts. In P. Cimiano, A. Frank, M. Kohlhase, & B. Stein, Robust Argumentation Machines. RATIO 2024. Lecture Notes in Computer Science (pp. 20-38). Springer Nature Switzerland. [DOI: 10.1007/978-3-031-63536-6_2](https://doi.org/10.1007/978-3-031-63536-6_2)
 
+Bernard-Verdier, M., Fadel, K., Heger, T., Jeschke, J. M., Stocker, M., & Vogt, L. (2024). Knowledge synthesis in Invasion Biology: from a prototype to community-designed templates. In S. Auer, V. Ilangovan, M. Stocker, S. Tiwari, & L. Vogt (Eds.), Open Research Knowledge Graph (pp. 105-115). Cuvillier. [https://cuvillier.de/get/ebook/6951/9783689420039_eBook.pdf](https://cuvillier.de/get/ebook/6951/9783689420039_eBook.pdf)
+
+Heger, T., Algergawy, A., Bernard-Verdier, M., Brinner, M. F., Jeschke, J. M., König-Ries, B., Mietchen, D., Musseau, C., & Zarrieß, S. (2024). Summary report of the 3rd INAS-enKORE Workshop "Taming complexity in ecology: Novel approaches for theory development, enhanced argumentation and knowledge synthesis". Zenodo. [DOI: 10.5281/zenodo.10997726](https://doi.org/10.5281/zenodo.10997726)
+
 Heger, T., Jeschke, J. M., Bernard-Verdier, M., Musseau, C. L., & Mietchen, D. (2024). Hypothesis Description: Enemy Release Hypothesis. Research Ideas and Outcomes, 10. [DOI: 10.3897/rio.10.e107393](https://doi.org/10.3897/rio.10.e107393)
 
 Heger, T., Mietchen, D., & Jeschke, J. M. (2024). Template for a Hypothesis Description paper. Research Ideas and Outcomes, 10. [DOI: 10.3897/rio.10.e119808](https://doi.org/10.3897/rio.10.e119808) 
